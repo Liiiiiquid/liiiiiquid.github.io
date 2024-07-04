@@ -1,0 +1,5 @@
+title: Anything New?
+description: A random personal blog.
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "https://liiiiiquid.github.io" # the base hostname & protocol for your site
+theme: minima
