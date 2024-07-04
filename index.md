@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to my blog!
+Random thoughts, discussions, photos and music reviews.
